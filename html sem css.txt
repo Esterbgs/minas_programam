@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <title> HashtagÉPolítica</title>
+  <style>
+    body {background-color: #5900b3;}
+    table {background-color: #5900b3;}
+    th {color:  #ffffff}
+    td {color: #ffffff}
+    h1 {color:   #33cccc;}
+    h2 {color: #33cccc;}
+    a {color:#33cccc;}
+    p{color:#ffffff;}
+    ul {color:#ffffff;}
+    form {color: #ffffff;}
+    .titulo {color: #33cccc;}
+    </style>
+  </head>
+  
+  <body>
+    <h1>HashtagÉPolítica</h1>
+    <p><strong><font face="Arial"> Tornando diálogo e a luta contra o discurso de ódio na internet acessível para todos os públicos; </p>
+    <p>Capacitando micro-atores para a mobilização on-line efetiva; </p>
+    <p>Lembrando que o virtual e o real se interseccionam!</font></strong></p>
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a75d1f10051087.560deb5be8ee1.png" alt="Símbolo do HashtagÉPolítica - Cerquilha colorida"/>
+   
+    <ul>
+      <li><font face="Arial"> Quem somos </li>
+      <li> Nossa história </li>
+      <li> Oficinas já realizadas </li>
+      <li> Manual de aplicação de oficinas </li>
+      <li> Hashtags para inspirar </font></li>
+    </ul>
+    
+    <p><font face="Arial"> Leve nossa oficina para a sua escola, entre em contato:
+      <a href="ester.bgs10@gmail.com"
+      target="_blank">Nosso e-mail</font></a>
+     </p>
+    
+    <form action="#" method="#"><font face="Arial">
+      <h2> Entre em contato </h2>
+      Seu nome:<input type="text"
+      placeholder="Digite aqui" /><br>
+      Seu e-mail:<input type="email"
+      placeholder="Digite aqui"/><br>
+     
+      Interesse:<br>
+      <input type="checkbox" id="Levar oficina" name="Levar oficina" value="Levar oficina"><labelfor="Levar oficina">Levar oficina</label>
+      <input type="checkbox" id="Patrocinar oficina" name="Patrocinar oficina" value="Patrocinar oficina"><labelfor="Patrocinar oficina">Patrocinar oficina</label> <br> 
+      
+      Fala com a gente:<br>
+       <textarea
+      placeholder="Digite aqui" rows="4"
+      cols='50'></textarea><br>
+      
+      Gostaria de receber e-mails com novidades?
+      <input type="radio" name="novidades"> Sim
+      <input type="radio" name="novidades"> Não </font>
+      
+
+
+    
+    <pre>
+      #HashtagÉPolítica
+    </pre>  
+    
+    <h2 class="titulo"><font face="Arial">Como montar sua oficina</h2>
+    <table widt="100%" border="1">
+      <thead>
+        <tr>
+          <th colspan="4"> Passo a Passo </th>
+        </tr>
+        <tr>
+          <th> Local de oficina </th>
+          <th> Público Alvo </th>
+          <th> Materiais utilizados </th>
+          <th> Subindo a Hashtag </th>
+        </tr>
+      </thead>
+      <tbody align="center">
+        <tr>
+          <td> Escolha um espaço público e converso com responsáveis </td>
+          <td> Defina bem as necessidades do seu público </td>
+          <td> Para crianças escolha jogos, para adultos a sensibilização pode ser melhor </td>
+          <td> Aprenda sobre a plataforma em que quer atuar </td>
+        </tr> </font>
+
+    
+  </body>
+</html>
